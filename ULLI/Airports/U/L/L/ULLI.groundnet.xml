@@ -1,0 +1,366 @@
+<groundnet>
+  <version>1</version>
+  <parkingList>
+    <Parking index="0" type="gate" name="101" lat="N59 48.15638880" lon="E30 16.18718400" heading="106" radius="33"/>
+    <Parking index="1" type="gate" name="102B" lat="N59 48.10458600" lon="E30 16.15524420" heading="93" radius="18"/>
+    <Parking index="2" type="gate" name="103A" lat="N59 48.07942020" lon="E30 16.11772560" heading="106" radius="18"/>
+    <Parking index="3" type="gate" name="104" lat="N59 48.01984800" lon="E30 16.10961660" heading="106" radius="33"/>
+    <Parking index="4" type="gate" name="105B" lat="N59 47.96877660" lon="E30 16.07921940" heading="95" radius="18"/>
+    <Parking index="5" type="gate" name="106A" lat="N59 47.93605380" lon="E30 16.02946260" heading="106" radius="18"/>
+    <Parking index="6" type="gate" name="107" lat="N59 47.87585760" lon="E30 16.02218100" heading="106" radius="33"/>
+    <Parking index="7" type="gate" name="108" lat="N59 47.83116600" lon="E30 15.99604920" heading="106" radius="33"/>
+    <Parking index="8" type="gate" name="109" lat="N59 47.78630700" lon="E30 15.97308420" heading="106" radius="33"/>
+    <Parking index="9" type="gate" name="130" lat="N59 48.21172740" lon="E30 15.92532120" heading="287" radius="33"/>
+    <Parking index="10" type="tie_down" name="131" lat="N59 48.16389120" lon="E30 15.92419560" heading="286" radius="18"/>
+    <Parking index="11" type="tie_down" name="132" lat="N59 48.14231520" lon="E30 15.91296780" heading="286" radius="18"/>
+    <Parking index="12" type="tie_down" name="133" lat="N59 48.11636040" lon="E30 15.89698620" heading="286" radius="18"/>
+    <Parking index="13" type="tie_down" name="134" lat="N59 48.09501180" lon="E30 15.88538820" heading="286" radius="18"/>
+    <Parking index="14" type="tie_down" name="135" lat="N59 48.07019760" lon="E30 15.87029880" heading="286" radius="18"/>
+    <Parking index="15" type="tie_down" name="136" lat="N59 48.04922580" lon="E30 15.85794540" heading="286" radius="18"/>
+    <Parking index="16" type="tie_down" name="137" lat="N59 48.02231640" lon="E30 15.84305100" heading="286" radius="18"/>
+    <Parking index="17" type="tie_down" name="138" lat="N59 47.99978040" lon="E30 15.83017980" heading="286" radius="18"/>
+    <Parking index="18" type="tie_down" name="139" lat="N59 47.96619720" lon="E30 15.81004080" heading="286" radius="18"/>
+    <Parking index="19" type="tie_down" name="140" lat="N59 47.93879040" lon="E30 15.79493460" heading="286" radius="18"/>
+    <Parking index="20" type="tie_down" name="141" lat="N59 47.91542160" lon="E30 15.78009420" heading="286" radius="18"/>
+    <Parking index="21" type="tie_down" name="142" lat="N59 47.88770040" lon="E30 15.76580460" heading="286" radius="18"/>
+    <Parking index="22" type="tie_down" name="143" lat="N59 47.86543020" lon="E30 15.75202260" heading="286" radius="18"/>
+    <Parking index="23" type="tie_down" name="144" lat="N59 47.83773180" lon="E30 15.73751220" heading="286" radius="18"/>
+    <Parking index="24" type="tie_down" name="145" lat="N59 47.81459280" lon="E30 15.72172200" heading="286" radius="18"/>
+    <Parking index="25" type="gate" name="146" lat="N59 47.77500000" lon="E30 15.67118820" heading="285" radius="33"/>
+    <Parking index="26" type="tie_down" name="150" lat="N59 48.18591600" lon="E30 15.72040440" heading="286" radius="26"/>
+    <Parking index="27" type="tie_down" name="151" lat="N59 48.14243760" lon="E30 15.71295600" heading="286" radius="26"/>
+    <Parking index="28" type="tie_down" name="152" lat="N59 47.98952520" lon="E30 15.61217160" heading="286" radius="33"/>
+    <Parking index="29" type="tie_down" name="153" lat="N59 47.94580980" lon="E30 15.58245120" heading="286" radius="33"/>
+    <Parking index="30" type="tie_down" name="154" lat="N59 47.90081820" lon="E30 15.55600140" heading="286" radius="33"/>
+    <Parking index="31" type="tie_down" name="155" lat="N59 47.85435480" lon="E30 15.53232300" heading="286" radius="33"/>
+    <Parking index="32" type="tie_down" name="156" lat="N59 47.80338240" lon="E30 15.49075740" heading="286" radius="33"/>
+    <Parking index="33" type="tie_down" name="252" lat="N59 48.12451980" lon="E30 16.35026400" heading="196" radius="14"/>
+    <Parking index="34" type="tie_down" name="253" lat="N59 48.11808600" lon="E30 16.39366620" heading="196" radius="14"/>
+    <Parking index="35" type="tie_down" name="254" lat="N59 48.11164740" lon="E30 16.43668920" heading="196" radius="14"/>
+    <Parking index="36" type="tie_down" name="255" lat="N59 48.10518600" lon="E30 16.47956760" heading="196" radius="14"/>
+    <Parking index="37" type="tie_down" name="256" lat="N59 48.09877440" lon="E30 16.52303460" heading="196" radius="14"/>
+    <Parking index="38" type="tie_down" name="257" lat="N59 48.09391860" lon="E30 16.56870120" heading="196" radius="14"/>
+    <Parking index="39" type="tie_down" name="258" lat="N59 48.08855160" lon="E30 16.60612680" heading="196" radius="14"/>
+    <Parking index="40" type="tie_down" name="259" lat="N59 48.08342040" lon="E30 16.64372580" heading="196" radius="14"/>
+    <Parking index="41" type="tie_down" name="260" lat="N59 48.07716960" lon="E30 16.68066780" heading="196" radius="14"/>
+    <Parking index="42" type="tie_down" name="261" lat="N59 48.06288060" lon="E30 16.73212260" heading="196" radius="18"/>
+    <Parking index="43" type="tie_down" name="262" lat="N59 48.05666520" lon="E30 16.78379760" heading="196" radius="18"/>
+    <Parking index="44" type="tie_down" name="263" lat="N59 48.04909680" lon="E30 16.83281100" heading="196" radius="18"/>
+    <Parking index="45" type="tie_down" name="301" lat="N59 48.36579540" lon="E30 18.26876160" heading="319" radius="26"/>
+    <Parking index="46" type="tie_down" name="302" lat="N59 48.27778260" lon="E30 18.42092100" heading="139" radius="26"/>
+    <Parking index="47" type="tie_down" name="303" lat="N59 48.24592620" lon="E30 18.35238840" heading="139" radius="33"/>
+    <Parking index="48" type="tie_down" name="304" lat="N59 48.22869600" lon="E30 18.10309200" heading="184" radius="33"/>
+    <Parking index="49" type="tie_down" name="305" lat="N59 48.33454740" lon="E30 18.24503700" heading="319" radius="14"/>
+    <Parking index="50" type="tie_down" name="306" lat="N59 48.32109060" lon="E30 18.21755640" heading="319" radius="14"/>
+    <Parking index="51" type="tie_down" name="307" lat="N59 48.30883980" lon="E30 18.18735120" heading="319" radius="14"/>
+    <Parking index="52" type="tie_down" name="308" lat="N59 48.35312820" lon="E30 18.14364300" heading="49" radius="18"/>
+    <Parking index="53" type="tie_down" name="309" lat="N59 48.37074180" lon="E30 18.11310540" heading="49" radius="18"/>
+    <Parking index="54" type="tie_down" name="310" lat="N59 48.38840520" lon="E30 18.08266320" heading="49" radius="18"/>
+    <Parking index="55" type="tie_down" name="311" lat="N59 48.40604880" lon="E30 18.05251440" heading="49" radius="18"/>
+    <Parking index="56" type="tie_down" name="312" lat="N59 48.42337440" lon="E30 18.02646780" heading="49" radius="14"/>
+    <Parking index="57" type="tie_down" name="313" lat="N59 48.44045520" lon="E30 17.99516760" heading="49" radius="18"/>
+    <Parking index="58" type="tie_down" name="314" lat="N59 48.37028760" lon="E30 17.89811400" heading="229" radius="18"/>
+    <Parking index="59" type="tie_down" name="315" lat="N59 48.35237340" lon="E30 17.92779540" heading="229" radius="18"/>
+    <Parking index="60" type="tie_down" name="316" lat="N59 48.33445920" lon="E30 17.95748820" heading="229" radius="18"/>
+    <Parking index="61" type="tie_down" name="317" lat="N59 48.31696020" lon="E30 17.98801980" heading="229" radius="18"/>
+    <Parking index="62" type="tie_down" name="318" lat="N59 48.29950740" lon="E30 18.01856520" heading="229" radius="18"/>
+    <Parking index="63" type="tie_down" name="319" lat="N59 48.28183020" lon="E30 18.04888980" heading="229" radius="18"/>
+    <Parking index="64" type="tie_down" name="379" lat="N59 48.35398740" lon="E30 17.86125000" heading="49" radius="18"/>
+    <Parking index="65" type="tie_down" name="380" lat="N59 48.45300480" lon="E30 17.89347060" heading="4" radius="14"/>
+    <Parking index="66" type="tie_down" name="381" lat="N59 48.46674720" lon="E30 17.86921620" heading="4" radius="14"/>
+    <Parking index="67" type="tie_down" name="382" lat="N59 48.48112860" lon="E30 17.84475000" heading="4" radius="14"/>
+    <Parking index="68" type="tie_down" name="383" lat="N59 48.49508400" lon="E30 17.82007200" heading="4" radius="14"/>
+    <Parking index="69" type="tie_down" name="384" lat="N59 48.50946540" lon="E30 17.79560580" heading="4" radius="14"/>
+    <Parking index="70" type="tie_down" name="385" lat="N59 48.52310160" lon="E30 17.77029180" heading="4" radius="14"/>
+    <Parking index="71" type="tie_down" name="386" lat="N59 48.54715260" lon="E30 17.80331700" heading="273" radius="14"/>
+    <Parking index="72" type="tie_down" name="387" lat="N59 48.53073120" lon="E30 17.83113780" heading="274" radius="14"/>
+    <Parking index="73" type="tie_down" name="388A" lat="N59 48.49712340" lon="E30 17.88814560" heading="274" radius="14"/>
+    <Parking index="74" type="tie_down" name="388" lat="N59 48.51393300" lon="E30 17.85942120" heading="274" radius="14"/>
+    <Parking index="75" type="tie_down" name="389A" lat="N59 48.46409940" lon="E30 17.94841080" heading="274" radius="14"/>
+    <Parking index="76" type="tie_down" name="389" lat="N59 48.48055800" lon="E30 17.91631860" heading="274" radius="14"/>
+    <Parking index="77" type="tie_down" name="400" lat="N59 48.37958160" lon="E30 17.24189280" heading="278" radius="14"/>
+    <Parking index="78" type="tie_down" name="401" lat="N59 48.39384120" lon="E30 17.21802780" heading="278" radius="14"/>
+    <Parking index="79" type="tie_down" name="402" lat="N59 48.40819440" lon="E30 17.19280380" heading="278" radius="14"/>
+    <Parking index="80" type="tie_down" name="403" lat="N59 48.42251880" lon="E30 17.16883260" heading="278" radius="14"/>
+    <Parking index="81" type="tie_down" name="404" lat="N59 48.43684260" lon="E30 17.14499040" heading="278" radius="14"/>
+    <Parking index="82" type="tie_down" name="405" lat="N59 48.45123180" lon="E30 17.11960140" heading="278" radius="14"/>
+    <Parking index="83" type="tie_down" name="406" lat="N59 48.46541040" lon="E30 17.09565960" heading="278" radius="14"/>
+    <Parking index="84" type="tie_down" name="407" lat="N59 48.47970120" lon="E30 17.07089760" heading="278" radius="14"/>
+    <Parking index="85" type="tie_down" name="408" lat="N59 48.49419480" lon="E30 17.04780600" heading="278" radius="14"/>
+    <Parking index="86" type="tie_down" name="409" lat="N59 48.50855340" lon="E30 17.02283520" heading="278" radius="14"/>
+    <Parking index="87" type="tie_down" name="410" lat="N59 48.52921320" lon="E30 16.98783900" heading="278" radius="14"/>
+    <Parking index="88" type="tie_down" name="411" lat="N59 48.54487680" lon="E30 16.96084500" heading="278" radius="14"/>
+    <Parking index="89" type="tie_down" name="411A" lat="N59 48.56040540" lon="E30 16.93481400" heading="278" radius="14"/>
+    <Parking index="90" type="tie_down" name="412" lat="N59 48.57987900" lon="E30 16.90187100" heading="278" radius="14"/>
+    <Parking index="91" type="tie_down" name="413" lat="N59 48.59371740" lon="E30 16.87917840" heading="278" radius="14"/>
+    <Parking index="92" type="tie_down" name="414" lat="N59 48.60774540" lon="E30 16.85543100" heading="278" radius="14"/>
+    <Parking index="93" type="tie_down" name="415" lat="N59 48.62184240" lon="E30 16.83193500" heading="278" radius="14"/>
+    <Parking index="94" type="tie_down" name="416" lat="N59 48.63564600" lon="E30 16.80918480" heading="278" radius="14"/>
+    <Parking index="95" type="tie_down" name="417" lat="N59 48.64922100" lon="E30 16.78615560" heading="278" radius="14"/>
+    <Parking index="96" type="tie_down" name="418" lat="N59 48.66316740" lon="E30 16.76227560" heading="278" radius="14"/>
+    <Parking index="97" type="tie_down" name="419" lat="N59 48.67704540" lon="E30 16.73825700" heading="278" radius="14"/>
+    <Parking index="98" type="tie_down" name="420" lat="N59 48.68931120" lon="E30 16.71759480" heading="278" radius="14"/>
+    <Parking index="99" type="tie_down" name="421" lat="N59 48.70354380" lon="E30 16.69341420" heading="278" radius="14"/>
+    <Parking index="100" type="tie_down" name="422" lat="N59 48.71739120" lon="E30 16.67004180" heading="278" radius="14"/>
+    <Parking index="101" type="tie_down" name="423" lat="N59 48.73123260" lon="E30 16.64664780" heading="278" radius="14"/>
+    <Parking index="102" type="tie_down" name="424" lat="N59 48.74527620" lon="E30 16.62290880" heading="278" radius="14"/>
+    <Parking index="103" type="tie_down" name="500" lat="N59 47.89408020" lon="E30 18.03606840" heading="94" radius="14"/>
+    <Parking index="104" type="tie_down" name="501" lat="N59 47.87639280" lon="E30 18.06690540" heading="94" radius="14"/>
+    <Parking index="105" type="tie_down" name="502" lat="N59 47.85835320" lon="E30 18.09643860" heading="94" radius="14"/>
+    <Parking index="106" type="tie_down" name="503" lat="N59 47.84018640" lon="E30 18.12778140" heading="94" radius="14"/>
+    <Parking index="107" type="tie_down" name="504" lat="N59 47.82231360" lon="E30 18.15805320" heading="94" radius="14"/>
+    <Parking index="108" type="tie_down" name="505" lat="N59 47.80438260" lon="E30 18.18814560" heading="94" radius="14"/>
+    <Parking index="109" type="tie_down" name="506" lat="N59 47.78668560" lon="E30 18.21842460" heading="94" radius="14"/>
+    <Parking index="110" type="tie_down" name="507" lat="N59 47.76873780" lon="E30 18.24841860" heading="94" radius="14"/>
+    <Parking index="111" type="tie_down" name="508" lat="N59 47.75102100" lon="E30 18.27775380" heading="94" radius="14"/>
+    <Parking index="112" type="tie_down" name="509" lat="N59 47.73314220" lon="E30 18.30890880" heading="94" radius="14"/>
+    <Parking index="113" type="tie_down" name="600" lat="N59 47.88554280" lon="E30 17.68402320" heading="16" radius="7.5"/>
+    <Parking index="114" type="tie_down" name="601" lat="N59 47.90066040" lon="E30 17.65292820" heading="16" radius="18"/>
+    <Parking index="115" type="tie_down" name="602B" lat="N59 47.90668140" lon="E30 17.60827620" heading="16" radius="14"/>
+    <Parking index="116" type="tie_down" name="602D" lat="N59 47.91349680" lon="E30 17.56379520" heading="16" radius="14"/>
+    <Parking index="117" type="tie_down" name="603B" lat="N59 47.91796380" lon="E30 17.52144060" heading="16" radius="14"/>
+    <Parking index="118" type="tie_down" name="603D" lat="N59 47.92530960" lon="E30 17.48560920" heading="16" radius="14"/>
+    <Parking index="119" type="tie_down" name="603F" lat="N59 47.92949520" lon="E30 17.44729020" heading="16" radius="14"/>
+    <Parking index="120" type="tie_down" name="604A" lat="N59 47.93422140" lon="E30 17.41120740" heading="16" radius="14"/>
+    <Parking index="121" type="tie_down" name="604C" lat="N59 47.93914440" lon="E30 17.37814260" heading="16" radius="14"/>
+    <Parking index="122" type="tie_down" name="604E" lat="N59 47.94369420" lon="E30 17.34433680" heading="16" radius="14"/>
+    <Parking index="123" type="tie_down" name="605A" lat="N59 47.88954360" lon="E30 17.28399060" heading="196" radius="14"/>
+    <Parking index="124" type="tie_down" name="605D" lat="N59 47.88436560" lon="E30 17.32361760" heading="196" radius="14"/>
+    <Parking index="125" type="tie_down" name="606D" lat="N59 47.87705160" lon="E30 17.37140820" heading="196" radius="14"/>
+    <Parking index="126" type="tie_down" name="607D" lat="N59 47.87009760" lon="E30 17.41538280" heading="196" radius="14"/>
+    <Parking index="127" type="tie_down" name="608D" lat="N59 47.86251900" lon="E30 17.46296100" heading="196" radius="14"/>
+    <Parking index="128" type="tie_down" name="609D" lat="N59 47.85596940" lon="E30 17.51297940" heading="196" radius="14"/>
+    <Parking index="129" type="tie_down" name="610D" lat="N59 47.84928300" lon="E30 17.56360560" heading="196" radius="14"/>
+    <Parking index="130" type="tie_down" name="611D" lat="N59 47.84198760" lon="E30 17.61393780" heading="196" radius="14"/>
+    <Parking index="131" type="tie_down" name="612D" lat="N59 47.83380060" lon="E30 17.65815540" heading="196" radius="14"/>
+    <Parking index="132" type="tie_down" name="700" lat="N59 47.96892240" lon="E30 17.43963180" heading="196" radius="26"/>
+    <Parking index="133" type="tie_down" name="701" lat="N59 47.95824180" lon="E30 17.51240700" heading="196" radius="26"/>
+    <Parking index="134" type="tie_down" name="702" lat="N59 47.94732660" lon="E30 17.58786780" heading="196" radius="26"/>
+    <Parking index="135" type="tie_down" name="703" lat="N59 47.93624460" lon="E30 17.66231400" heading="196" radius="26"/>
+    <Parking index="136" type="tie_down" name="704" lat="N59 47.92568040" lon="E30 17.73360300" heading="196" radius="26"/>
+  </parkingList>
+  <TaxiNodes>
+    <node index="137" lat="N59 47.78407620" lon="E30 15.62697360" isOnRunway="0" holdPointType="none"/>
+    <node index="138" lat="N59 48.19045740" lon="E30 15.86566380" isOnRunway="0" holdPointType="none"/>
+    <node index="139" lat="N59 48.22162380" lon="E30 15.86598420" isOnRunway="0" holdPointType="none"/>
+    <node index="146" lat="N59 48.16758720" lon="E30 16.32227700" isOnRunway="0" holdPointType="none"/>
+    <node index="151" lat="N59 48.20749680" lon="E30 18.29003820" isOnRunway="0" holdPointType="none"/>
+    <node index="152" lat="N59 48.24221700" lon="E30 18.23009160" isOnRunway="0" holdPointType="none"/>
+    <node index="153" lat="N59 47.92054920" lon="E30 17.28570360" isOnRunway="0" holdPointType="none"/>
+    <node index="154" lat="N59 48.42726840" lon="E30 17.90809800" isOnRunway="0" holdPointType="none"/>
+    <node index="155" lat="N59 48.08733840" lon="E30 16.85939520" isOnRunway="0" holdPointType="none"/>
+    <node index="156" lat="N59 48.10466400" lon="E30 17.15815980" isOnRunway="0" holdPointType="none"/>
+    <node index="157" lat="N59 48.21887580" lon="E30 16.41071340" isOnRunway="0" holdPointType="none"/>
+    <node index="158" lat="N59 47.96704680" lon="E30 18.01913880" isOnRunway="0" holdPointType="none"/>
+    <node index="159" lat="N59 47.96297340" lon="E30 17.96826300" isOnRunway="0" holdPointType="none"/>
+    <node index="160" lat="N59 48.43383000" lon="E30 14.80910820" isOnRunway="0" holdPointType="none"/>
+    <node index="161" lat="N59 48.27202500" lon="E30 15.89507400" isOnRunway="0" holdPointType="none"/>
+    <node index="162" lat="N59 48.26723520" lon="E30 15.92689560" isOnRunway="0" holdPointType="none"/>
+    <node index="163" lat="N59 48.24288420" lon="E30 16.09017420" isOnRunway="0" holdPointType="none"/>
+    <node index="164" lat="N59 48.20505120" lon="E30 16.34388120" isOnRunway="0" holdPointType="none"/>
+    <node index="165" lat="N59 48.19709520" lon="E30 16.39781640" isOnRunway="0" holdPointType="none"/>
+    <node index="166" lat="N59 48.12496080" lon="E30 16.88115840" isOnRunway="0" holdPointType="none"/>
+    <node index="167" lat="N59 48.08543640" lon="E30 17.14657680" isOnRunway="0" holdPointType="none"/>
+    <node index="168" lat="N59 48.05325000" lon="E30 17.36259120" isOnRunway="0" holdPointType="none"/>
+    <node index="169" lat="N59 47.98375620" lon="E30 17.82782280" isOnRunway="0" holdPointType="none"/>
+    <node index="170" lat="N59 48.44620020" lon="E30 14.77255260" isOnRunway="0" holdPointType="none"/>
+    <node index="171" lat="N59 47.72474040" lon="E30 15.56104260" isOnRunway="0" holdPointType="none"/>
+    <node index="172" lat="N59 47.97869040" lon="E30 13.82028300" isOnRunway="0" holdPointType="none"/>
+    <node index="173" lat="N59 47.53947720" lon="E30 16.89568800" isOnRunway="0" holdPointType="none"/>
+    <node index="174" lat="N59 47.52496320" lon="E30 16.92769200" isOnRunway="0" holdPointType="none"/>
+    <node index="175" lat="N59 48.06934080" lon="E30 13.32228600" isOnRunway="0" holdPointType="none"/>
+    <node index="176" lat="N59 47.98861320" lon="E30 13.86613260" isOnRunway="0" holdPointType="none"/>
+    <node index="177" lat="N59 47.72361960" lon="E30 15.65350200" isOnRunway="0" holdPointType="none"/>
+    <node index="178" lat="N59 47.70563280" lon="E30 15.77472120" isOnRunway="0" holdPointType="none"/>
+    <node index="179" lat="N59 47.69227260" lon="E30 15.86551920" isOnRunway="0" holdPointType="none"/>
+    <node index="180" lat="N59 48.00661620" lon="E30 18.10506000" isOnRunway="0" holdPointType="none"/>
+    <node index="181" lat="N59 48.03159600" lon="E30 18.15725100" isOnRunway="0" holdPointType="none"/>
+    <node index="182" lat="N59 48.12897480" lon="E30 18.23497020" isOnRunway="0" holdPointType="none"/>
+    <node index="183" lat="N59 48.16302840" lon="E30 18.04880580" isOnRunway="0" holdPointType="none"/>
+    <node index="184" lat="N59 48.12468480" lon="E30 17.96037540" isOnRunway="0" holdPointType="none"/>
+    <node index="186" lat="N59 48.27285840" lon="E30 17.54882580" isOnRunway="0" holdPointType="none"/>
+    <node index="187" lat="N59 48.23301120" lon="E30 17.45570820" isOnRunway="0" holdPointType="none"/>
+    <node index="188" lat="N59 48.13679400" lon="E30 17.23108560" isOnRunway="0" holdPointType="none"/>
+    <node index="189" lat="N59 48.17116860" lon="E30 17.30954400" isOnRunway="0" holdPointType="none"/>
+    <node index="190" lat="N59 48.23855640" lon="E30 16.52766900" isOnRunway="0" holdPointType="none"/>
+    <node index="191" lat="N59 48.27340500" lon="E30 16.73613420" isOnRunway="0" holdPointType="none"/>
+    <node index="192" lat="N59 48.33217860" lon="E30 15.96571020" isOnRunway="0" holdPointType="none"/>
+    <node index="193" lat="N59 48.50576700" lon="E30 14.74325400" isOnRunway="0" holdPointType="none"/>
+    <node index="194" lat="N59 48.54217020" lon="E30 14.73163800" isOnRunway="0" holdPointType="none"/>
+    <node index="195" lat="N59 48.06814320" lon="E30 18.19254960" isOnRunway="0" holdPointType="none"/>
+    <node index="196" lat="N59 48.58023900" lon="E30 14.75372760" isOnRunway="0" holdPointType="none"/>
+    <node index="197" lat="N59 48.39425880" lon="E30 16.00267020" isOnRunway="0" holdPointType="none"/>
+    <node index="198" lat="N59 48.25704180" lon="E30 16.92405900" isOnRunway="0" holdPointType="none"/>
+    <node index="199" lat="N59 48.19736220" lon="E30 17.32464240" isOnRunway="0" holdPointType="none"/>
+    <node index="200" lat="N59 48.18240120" lon="E30 17.42537340" isOnRunway="0" holdPointType="none"/>
+    <node index="201" lat="N59 48.10439460" lon="E30 17.94923580" isOnRunway="0" holdPointType="none"/>
+    <node index="202" lat="N59 47.49554820" lon="E30 16.94620560" isOnRunway="0" holdPointType="none"/>
+    <node index="203" lat="N59 47.46944880" lon="E30 16.95775500" isOnRunway="0" holdPointType="none"/>
+    <node index="204" lat="N59 47.65590960" lon="E30 15.84444480" isOnRunway="0" holdPointType="none"/>
+    <node index="205" lat="N59 47.71512660" lon="E30 15.47805900" isOnRunway="0" holdPointType="none"/>
+    <node index="206" lat="N59 47.68513380" lon="E30 15.23097300" isOnRunway="0" holdPointType="none"/>
+    <node index="207" lat="N59 47.95852860" lon="E30 13.80801540" isOnRunway="0" holdPointType="none"/>
+    <node index="208" lat="N59 47.94680880" lon="E30 13.81934400" isOnRunway="0" holdPointType="none"/>
+    <node index="209" lat="N59 47.87600220" lon="E30 13.96620840" isOnRunway="0" holdPointType="none"/>
+    <node index="210" lat="N59 48.04950900" lon="E30 13.20895680" isOnRunway="0" holdPointType="none"/>
+    <node index="211" lat="N59 48.07185060" lon="E30 13.26026940" isOnRunway="0" holdPointType="none"/>
+    <node index="212" lat="N59 48.02482620" lon="E30 13.15874580" isOnRunway="0" holdPointType="none"/>
+    <node index="213" lat="N59 47.42581620" lon="E30 16.93206480" isOnRunway="0" holdPointType="none"/>
+    <node index="214" lat="N59 47.98928040" lon="E30 13.13858400" isOnRunway="0" holdPointType="none"/>
+    <node index="215" lat="N59 47.84547060" lon="E30 14.10671760" isOnRunway="0" holdPointType="none"/>
+    <node index="216" lat="N59 47.70068580" lon="E30 15.08153040" isOnRunway="0" holdPointType="none"/>
+    <node index="217" lat="N59 47.59275480" lon="E30 15.80821560" isOnRunway="0" holdPointType="none"/>
+    <node index="275" lat="N59 47.96651700" lon="E30 15.92788320" isOnRunway="0" holdPointType="none"/>
+    <node index="276" lat="N59 47.78170800" lon="E30 15.81921900" isOnRunway="0" holdPointType="none"/>
+    <node index="278" lat="N59 47.99413680" lon="E30 15.75032040" isOnRunway="0" holdPointType="none"/>
+  </TaxiNodes>
+  <TaxiWaySegments>
+    <arc begin="278" end="137" isPushBackRoute="0" name="F"/>
+    <arc begin="137" end="278" isPushBackRoute="0" name="F"/>
+    <arc begin="138" end="278" isPushBackRoute="0" name="F"/>
+    <arc begin="278" end="138" isPushBackRoute="0" name="F"/>
+    <arc begin="139" end="138" isPushBackRoute="0" name="F"/>
+    <arc begin="138" end="139" isPushBackRoute="0" name="F"/>
+    <arc begin="161" end="139" isPushBackRoute="0" name="F"/>
+    <arc begin="139" end="161" isPushBackRoute="0" name="F"/>
+    <arc begin="275" end="163" isPushBackRoute="0" name="D"/>
+    <arc begin="163" end="275" isPushBackRoute="0" name="D"/>
+    <arc begin="276" end="275" isPushBackRoute="0" name="D"/>
+    <arc begin="275" end="276" isPushBackRoute="0" name="D"/>
+    <arc begin="178" end="276" isPushBackRoute="0" name="D"/>
+    <arc begin="276" end="178" isPushBackRoute="0" name="D"/>
+    <arc begin="182" end="151" isPushBackRoute="0" name="B1"/>
+    <arc begin="151" end="182" isPushBackRoute="0" name="B1"/>
+    <arc begin="183" end="152" isPushBackRoute="0" name="B2"/>
+    <arc begin="152" end="183" isPushBackRoute="0" name="B2"/>
+    <arc begin="168" end="153" isPushBackRoute="0" name="B11"/>
+    <arc begin="153" end="168" isPushBackRoute="0" name="B11"/>
+    <arc begin="186" end="154" isPushBackRoute="0" name="B10"/>
+    <arc begin="154" end="186" isPushBackRoute="0" name="B10"/>
+    <arc begin="166" end="155" isPushBackRoute="0" name="B9"/>
+    <arc begin="155" end="166" isPushBackRoute="0" name="B9"/>
+    <arc begin="164" end="146" isPushBackRoute="0" name="B8"/>
+    <arc begin="146" end="164" isPushBackRoute="0" name="B8"/>
+    <arc begin="156" end="167" isPushBackRoute="0" name="B3"/>
+    <arc begin="167" end="156" isPushBackRoute="0" name="B3"/>
+    <arc begin="188" end="156" isPushBackRoute="0" name="B3"/>
+    <arc begin="156" end="188" isPushBackRoute="0" name="B3"/>
+    <arc begin="157" end="165" isPushBackRoute="0" name="B4"/>
+    <arc begin="190" end="157" isPushBackRoute="0" name="B4"/>
+    <arc begin="192" end="162" isPushBackRoute="0" name="B5"/>
+    <arc begin="162" end="192" isPushBackRoute="0" name="B5"/>
+    <arc begin="158" end="180" isPushBackRoute="0" name="B"/>
+    <arc begin="180" end="158" isPushBackRoute="0" name="B"/>
+    <arc begin="159" end="158" isPushBackRoute="0" name="B"/>
+    <arc begin="158" end="159" isPushBackRoute="0" name="B"/>
+    <arc begin="160" end="161" isPushBackRoute="0" name="B"/>
+    <arc begin="161" end="160" isPushBackRoute="0" name="B"/>
+    <arc begin="161" end="162" isPushBackRoute="0" name="B"/>
+    <arc begin="162" end="161" isPushBackRoute="0" name="B"/>
+    <arc begin="162" end="163" isPushBackRoute="0" name="B"/>
+    <arc begin="163" end="162" isPushBackRoute="0" name="B"/>
+    <arc begin="163" end="164" isPushBackRoute="0" name="B"/>
+    <arc begin="164" end="163" isPushBackRoute="0" name="B"/>
+    <arc begin="164" end="165" isPushBackRoute="0" name="B"/>
+    <arc begin="165" end="164" isPushBackRoute="0" name="B"/>
+    <arc begin="165" end="166" isPushBackRoute="0" name="B"/>
+    <arc begin="166" end="165" isPushBackRoute="0" name="B"/>
+    <arc begin="166" end="167" isPushBackRoute="0" name="B"/>
+    <arc begin="167" end="166" isPushBackRoute="0" name="B"/>
+    <arc begin="167" end="168" isPushBackRoute="0" name="B"/>
+    <arc begin="168" end="167" isPushBackRoute="0" name="B"/>
+    <arc begin="168" end="169" isPushBackRoute="0" name="B"/>
+    <arc begin="169" end="168" isPushBackRoute="0" name="B"/>
+    <arc begin="169" end="159" isPushBackRoute="0" name="B"/>
+    <arc begin="159" end="169" isPushBackRoute="0" name="B"/>
+    <arc begin="170" end="160" isPushBackRoute="0" name="B"/>
+    <arc begin="160" end="170" isPushBackRoute="0" name="B"/>
+    <arc begin="193" end="170" isPushBackRoute="0" name="B"/>
+    <arc begin="170" end="193" isPushBackRoute="0" name="B"/>
+    <arc begin="204" end="179" isPushBackRoute="0" name="A1"/>
+    <arc begin="179" end="204" isPushBackRoute="0" name="A1"/>
+    <arc begin="171" end="177" isPushBackRoute="0" name="A2"/>
+    <arc begin="205" end="171" isPushBackRoute="0" name="A2"/>
+    <arc begin="172" end="176" isPushBackRoute="0" name="A4"/>
+    <arc begin="207" end="172" isPushBackRoute="0" name="A4"/>
+    <arc begin="173" end="174" isPushBackRoute="0" name="A"/>
+    <arc begin="174" end="173" isPushBackRoute="0" name="A"/>
+    <arc begin="174" end="202" isPushBackRoute="0" name="A"/>
+    <arc begin="202" end="174" isPushBackRoute="0" name="A"/>
+    <arc begin="175" end="176" isPushBackRoute="0" name="A"/>
+    <arc begin="176" end="175" isPushBackRoute="0" name="A"/>
+    <arc begin="176" end="177" isPushBackRoute="0" name="A"/>
+    <arc begin="177" end="176" isPushBackRoute="0" name="A"/>
+    <arc begin="177" end="178" isPushBackRoute="0" name="A"/>
+    <arc begin="178" end="177" isPushBackRoute="0" name="A"/>
+    <arc begin="178" end="179" isPushBackRoute="0" name="A"/>
+    <arc begin="179" end="178" isPushBackRoute="0" name="A"/>
+    <arc begin="179" end="173" isPushBackRoute="0" name="A"/>
+    <arc begin="173" end="179" isPushBackRoute="0" name="A"/>
+    <arc begin="210" end="211" isPushBackRoute="0" name="A"/>
+    <arc begin="211" end="210" isPushBackRoute="0" name="A"/>
+    <arc begin="211" end="175" isPushBackRoute="0" name="A"/>
+    <arc begin="175" end="211" isPushBackRoute="0" name="A"/>
+    <arc begin="181" end="180" isPushBackRoute="0" name="B"/>
+    <arc begin="180" end="181" isPushBackRoute="0" name="B"/>
+    <arc begin="195" end="181" isPushBackRoute="0" name="B"/>
+    <arc begin="181" end="195" isPushBackRoute="0" name="B"/>
+    <arc begin="195" end="182" isPushBackRoute="0" name="B1"/>
+    <arc begin="182" end="195" isPushBackRoute="0" name="B1"/>
+    <arc begin="184" end="183" isPushBackRoute="0" name="B2"/>
+    <arc begin="183" end="184" isPushBackRoute="0" name="B2"/>
+    <arc begin="201" end="184" isPushBackRoute="0" name="B2"/>
+    <arc begin="184" end="201" isPushBackRoute="0" name="B2"/>
+    <arc begin="187" end="186" isPushBackRoute="0" name="B10"/>
+    <arc begin="186" end="187" isPushBackRoute="0" name="B10"/>
+    <arc begin="200" end="187" isPushBackRoute="0" name="B10"/>
+    <arc begin="187" end="200" isPushBackRoute="0" name="B10"/>
+    <arc begin="189" end="188" isPushBackRoute="0" name="B3"/>
+    <arc begin="188" end="189" isPushBackRoute="0" name="B3"/>
+    <arc begin="199" end="189" isPushBackRoute="0" name="B3"/>
+    <arc begin="189" end="199" isPushBackRoute="0" name="B3"/>
+    <arc begin="191" end="190" isPushBackRoute="0" name="B4"/>
+    <arc begin="198" end="191" isPushBackRoute="0" name="B4"/>
+    <arc begin="197" end="192" isPushBackRoute="0" name="B5"/>
+    <arc begin="192" end="197" isPushBackRoute="0" name="B5"/>
+    <arc begin="194" end="193" isPushBackRoute="0" name="B"/>
+    <arc begin="193" end="194" isPushBackRoute="0" name="B"/>
+    <arc begin="196" end="194" isPushBackRoute="0" name="B"/>
+    <arc begin="194" end="196" isPushBackRoute="0" name="B"/>
+    <arc begin="196" end="197" isPushBackRoute="0" name="10L/28R"/>
+    <arc begin="197" end="196" isPushBackRoute="0" name="10L/28R"/>
+    <arc begin="197" end="198" isPushBackRoute="0" name="10L/28R"/>
+    <arc begin="198" end="197" isPushBackRoute="0" name="10L/28R"/>
+    <arc begin="198" end="199" isPushBackRoute="0" name="10L/28R"/>
+    <arc begin="199" end="198" isPushBackRoute="0" name="10L/28R"/>
+    <arc begin="199" end="200" isPushBackRoute="0" name="10L/28R"/>
+    <arc begin="200" end="199" isPushBackRoute="0" name="10L/28R"/>
+    <arc begin="200" end="201" isPushBackRoute="0" name="10L/28R"/>
+    <arc begin="201" end="200" isPushBackRoute="0" name="10L/28R"/>
+    <arc begin="201" end="195" isPushBackRoute="0" name="10L/28R"/>
+    <arc begin="195" end="201" isPushBackRoute="0" name="10L/28R"/>
+    <arc begin="203" end="202" isPushBackRoute="0" name="A"/>
+    <arc begin="202" end="203" isPushBackRoute="0" name="A"/>
+    <arc begin="213" end="203" isPushBackRoute="0" name="A"/>
+    <arc begin="203" end="213" isPushBackRoute="0" name="A"/>
+    <arc begin="217" end="204" isPushBackRoute="0" name="A1"/>
+    <arc begin="204" end="217" isPushBackRoute="0" name="A1"/>
+    <arc begin="206" end="205" isPushBackRoute="0" name="A2"/>
+    <arc begin="216" end="206" isPushBackRoute="0" name="A2"/>
+    <arc begin="208" end="207" isPushBackRoute="0" name="A4"/>
+    <arc begin="209" end="208" isPushBackRoute="0" name="A4"/>
+    <arc begin="215" end="209" isPushBackRoute="0" name="A4"/>
+    <arc begin="212" end="210" isPushBackRoute="0" name="A"/>
+    <arc begin="210" end="212" isPushBackRoute="0" name="A"/>
+    <arc begin="214" end="212" isPushBackRoute="0" name="A"/>
+    <arc begin="212" end="214" isPushBackRoute="0" name="A"/>
+    <arc begin="214" end="215" isPushBackRoute="0" name="10R/28L"/>
+    <arc begin="215" end="214" isPushBackRoute="0" name="10R/28L"/>
+    <arc begin="215" end="216" isPushBackRoute="0" name="10R/28L"/>
+    <arc begin="216" end="215" isPushBackRoute="0" name="10R/28L"/>
+    <arc begin="216" end="217" isPushBackRoute="0" name="10R/28L"/>
+    <arc begin="217" end="216" isPushBackRoute="0" name="10R/28L"/>
+    <arc begin="217" end="213" isPushBackRoute="0" name="10R/28L"/>
+    <arc begin="213" end="217" isPushBackRoute="0" name="10R/28L"/>
+  </TaxiWaySegments>
+</groundnet>
